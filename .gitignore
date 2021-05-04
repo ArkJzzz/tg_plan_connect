@@ -1,0 +1,7 @@
+.env
+plan_connect.db
+test.py
+*.pkl
+*.log
+*.html
+/__pycache__
